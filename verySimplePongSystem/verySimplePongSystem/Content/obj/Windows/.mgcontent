@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Bureau/MonoGame _Stuff/verySimplePongSystem/verySimplePongSystem/Content/Ball.png</File>
+    <File>D:/Bureau/MonoGame _Stuff/verySimplePongSystem/verySimplePongSystem/Content/GameOver.png</File>
+    <File>D:/Bureau/MonoGame _Stuff/verySimplePongSystem/verySimplePongSystem/Content/Paddle.png</File>
+    <File>D:/Bureau/MonoGame _Stuff/verySimplePongSystem/verySimplePongSystem/Content/background.png</File>
+    <File>D:/Bureau/MonoGame _Stuff/verySimplePongSystem/verySimplePongSystem/Content/songbackground.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>

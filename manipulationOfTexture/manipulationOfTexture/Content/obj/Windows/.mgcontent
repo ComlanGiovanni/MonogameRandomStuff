@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Bureau/MonoGame _Stuff/manipulationOfTexture/manipulationOfTexture/Content/Textures/jpg/birdF.jpg</File>
+    <File>D:/Bureau/MonoGame _Stuff/manipulationOfTexture/manipulationOfTexture/Content/Textures/jpg/nyanCat.jpg</File>
+    <File>D:/Bureau/MonoGame _Stuff/manipulationOfTexture/manipulationOfTexture/Content/Textures/jpg/trueMan.jpg</File>
+    <File>D:/Bureau/MonoGame _Stuff/manipulationOfTexture/manipulationOfTexture/Content/Textures/png/canardB.png</File>
+    <File>D:/Bureau/MonoGame _Stuff/manipulationOfTexture/manipulationOfTexture/Content/Textures/png/coinM.png</File>
+    <File>D:/Bureau/MonoGame _Stuff/manipulationOfTexture/manipulationOfTexture/Content/Textures/png/starM.png</File>
+    <File>D:/Bureau/MonoGame _Stuff/manipulationOfTexture/manipulationOfTexture/Content/Textures/gifs/idlleMan.gif</File>
+    <File>D:/Bureau/MonoGame _Stuff/manipulationOfTexture/manipulationOfTexture/Content/Textures/gifs/lacZen.gif</File>
+    <File>D:/Bureau/MonoGame _Stuff/manipulationOfTexture/manipulationOfTexture/Content/Textures/gifs/oneP.gif</File>
+  </SourceFiles>
+</SourceFileCollection>
