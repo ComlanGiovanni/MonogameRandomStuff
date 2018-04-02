@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inputKMG", "inputKMG\inputKMG.csproj", "{7943E073-7FD7-4557-9FFD-883F898DAFC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7943E073-7FD7-4557-9FFD-883F898DAFC9}.Debug|x86.ActiveCfg = Debug|x86
+		{7943E073-7FD7-4557-9FFD-883F898DAFC9}.Debug|x86.Build.0 = Debug|x86
+		{7943E073-7FD7-4557-9FFD-883F898DAFC9}.Release|x86.ActiveCfg = Release|x86
+		{7943E073-7FD7-4557-9FFD-883F898DAFC9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A75EA48F-4C9F-46EA-B40B-4739C51104A7}
+	EndGlobalSection
+EndGlobal

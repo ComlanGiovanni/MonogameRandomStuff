@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollisionDetectionResponse", "CollisionDetectionResponse\CollisionDetectionResponse.csproj", "{F5062A14-56FA-4F17-9994-03724355C477}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5062A14-56FA-4F17-9994-03724355C477}.Debug|x86.ActiveCfg = Debug|x86
+		{F5062A14-56FA-4F17-9994-03724355C477}.Debug|x86.Build.0 = Debug|x86
+		{F5062A14-56FA-4F17-9994-03724355C477}.Release|x86.ActiveCfg = Release|x86
+		{F5062A14-56FA-4F17-9994-03724355C477}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAE38340-E5F5-42F2-8A6E-9F7BFFB5CF3E}
+	EndGlobalSection
+EndGlobal

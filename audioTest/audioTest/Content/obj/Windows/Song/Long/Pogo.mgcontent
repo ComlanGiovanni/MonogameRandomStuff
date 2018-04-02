@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Bureau/MonoGame _Stuff/audioTest/audioTest/Content/Song/Long/Pogo.mp3</SourceFile>
+  <SourceTime>2018-02-16T20:09:38+01:00</SourceTime>
+  <DestFile>D:/Bureau/MonoGame _Stuff/audioTest/audioTest/Content/bin/Windows/Song/Long/Pogo.xnb</DestFile>
+  <DestTime>2018-04-01T22:24:07.5213083+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Bureau/MonoGame _Stuff/audioTest/audioTest/Content/bin/Windows/Song/Long/Pogo.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
