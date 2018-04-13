@@ -13,7 +13,7 @@ namespace CollisionDetectionResponse.Models
         public static int SCREEN_HEIGHT = 1000;
 
         public static bool IS_MOUSE_VISIBLE = true;//False by default
-        public static bool IS_BORDERLESS = true;//False by default
+        public static bool IS_BORDERLESS = false;//False by default
 
         public static Color DONT_AFFECT_COLOR_SPRITE = Color.White;
 

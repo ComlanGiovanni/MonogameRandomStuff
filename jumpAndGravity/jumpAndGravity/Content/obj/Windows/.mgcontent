@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Bureau/Monogame Folder/MonoGame _Stuff/jumpAndGravity/jumpAndGravity/Content/batman.png</File>
+    <File>D:/Bureau/Monogame Folder/MonoGame _Stuff/jumpAndGravity/jumpAndGravity/Content/Platform.png</File>
+    <File>D:/Bureau/Monogame Folder/MonoGame _Stuff/jumpAndGravity/jumpAndGravity/Content/Jump.wav</File>
+    <File>D:/Bureau/Monogame Folder/MonoGame _Stuff/jumpAndGravity/jumpAndGravity/Content/grassWalk.wav</File>
+    <File>D:/Bureau/Monogame Folder/MonoGame _Stuff/jumpAndGravity/jumpAndGravity/Content/themeSong.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>

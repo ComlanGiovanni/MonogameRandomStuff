@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Bureau/Monogame Folder/MonoGame _Stuff/cameraFS/cameraFS/Content/Textures/bl.png</File>
+    <File>D:/Bureau/Monogame Folder/MonoGame _Stuff/cameraFS/cameraFS/Content/Textures/pixel-art-background-8.png</File>
+    <File>D:/Bureau/Monogame Folder/MonoGame _Stuff/cameraFS/cameraFS/Content/Textures/png.png</File>
+  </SourceFiles>
+</SourceFileCollection>

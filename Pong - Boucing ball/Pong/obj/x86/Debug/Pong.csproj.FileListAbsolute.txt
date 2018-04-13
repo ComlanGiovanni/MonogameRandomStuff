@@ -1,0 +1,58 @@
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\Content\Textures\Background.xnb
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\Content\Textures\Ball.xnb
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\Content\Textures\Paddle.xnb
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\Pong.exe
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\Pong.pdb
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.dll
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.xml
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Bureau\Pong\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Bureau\Pong\Pong\obj\x86\Debug\Pong.csproj.CoreCompileInputs.cache
+D:\Bureau\Pong\Pong\obj\x86\Debug\Pong.csproj.CopyComplete
+D:\Bureau\Pong\Pong\obj\x86\Debug\Pong.exe
+D:\Bureau\Pong\Pong\obj\x86\Debug\Pong.pdb
+D:\Bureau\Pong\Pong\bin\Windows\x86\Debug\Content\Font.xnb
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\Content\Textures\Background.xnb
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\Content\Textures\Ball.xnb
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\Content\Textures\Paddle.xnb
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\Content\Font.xnb
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\Pong.exe
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\Pong.pdb
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.dll
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.xml
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Bureau\Pong - Boucing ball\Pong\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Bureau\Pong - Boucing ball\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Bureau\Pong - Boucing ball\Pong\obj\x86\Debug\Pong.csproj.CoreCompileInputs.cache
+D:\Bureau\Pong - Boucing ball\Pong\obj\x86\Debug\Pong.csproj.CopyComplete
+D:\Bureau\Pong - Boucing ball\Pong\obj\x86\Debug\Pong.exe
+D:\Bureau\Pong - Boucing ball\Pong\obj\x86\Debug\Pong.pdb

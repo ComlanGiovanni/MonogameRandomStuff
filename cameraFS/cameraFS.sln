@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cameraFS", "cameraFS\cameraFS.csproj", "{4BC0C759-1F40-43F2-B5FF-1ABA85CFF5D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC0C759-1F40-43F2-B5FF-1ABA85CFF5D2}.Debug|x86.ActiveCfg = Debug|x86
+		{4BC0C759-1F40-43F2-B5FF-1ABA85CFF5D2}.Debug|x86.Build.0 = Debug|x86
+		{4BC0C759-1F40-43F2-B5FF-1ABA85CFF5D2}.Release|x86.ActiveCfg = Release|x86
+		{4BC0C759-1F40-43F2-B5FF-1ABA85CFF5D2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34297B3D-1D36-4ED6-AA5C-7B8B64199A3B}
+	EndGlobalSection
+EndGlobal

@@ -25,9 +25,13 @@ namespace CollisionDetectionResponse
 
             this.IsMouseVisible = Models.Settings.IS_MOUSE_VISIBLE;
             this.Window.IsBorderless = Models.Settings.IS_BORDERLESS;
+            /*
+             * For is IS_BORDERLESS = true
+            this.Window.Position = new Point((GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width / 2) - (graphics.PreferredBackBufferWidth / 2),
+                (GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height / 2) - (graphics.PreferredBackBufferHeight / 2));*/
 
             this.Window.Position = new Point((GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width / 2) - (graphics.PreferredBackBufferWidth / 2),
-                (GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height / 2) - (graphics.PreferredBackBufferHeight / 2));
+                (GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height / 2) - ((graphics.PreferredBackBufferHeight + 40)  / 2));
 
             Content.RootDirectory = "Content";
         }
