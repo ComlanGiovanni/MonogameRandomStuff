@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Corps.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Yeux_1.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Yeux_2.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Bouche_1.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Bouche_2.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Cheveux_1.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Cheveux_2.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Ailes_2.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Ailes_1.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Bras_2.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Bras_1.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Corne_1.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Corne_2.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Jambe_1.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Jambe_2.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Nez_1.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Nez_2.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Oreille_1.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Oreille_2.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Habit_1.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Queue_2.png</File>
+    <File>D:/Bureau/Gamejam3/Gamejam3/Content/Queue_1.png</File>
+  </SourceFiles>
+</SourceFileCollection>

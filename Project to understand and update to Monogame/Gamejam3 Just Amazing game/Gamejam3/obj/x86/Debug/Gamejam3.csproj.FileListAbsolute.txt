@@ -1,0 +1,78 @@
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\perso_1.xnb
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Gamejam3.exe
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Gamejam3.pdb
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.dll
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.xml
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\obj\x86\Debug\Gamejam3.csprojResolveAssemblyReference.cache
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\obj\x86\Debug\Gamejam3.exe
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\obj\x86\Debug\Gamejam3.pdb
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\perso_3.xnb
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\perso_2.xnb
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\bas.xnb
+F:\Gamecodeur\Jam GameCodeur\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\haut.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\obj\x86\Debug\Gamejam3.exe
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\obj\x86\Debug\Gamejam3.pdb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Gamejam3.exe
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Gamejam3.pdb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\obj\x86\Debug\Gamejam3.csprojResolveAssemblyReference.cache
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Corps.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Yeux_1.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Yeux_2.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Bouche_1.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Bouche_2.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Cheveux_1.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Cheveux_2.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Ailes_1.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Ailes_2.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Bras_1.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Bras_2.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Corne_1.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Corne_2.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Jambe_1.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Jambe_2.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Nez_1.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Nez_2.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Oreille_1.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Oreille_2.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Habit_1.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Queue_1.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Queue_2.xnb
+C:\Users\LudoWork\Desktop\Jam 3\Gamejam3\Gamejam3\bin\Windows\x86\Debug\Content\Score.xnb

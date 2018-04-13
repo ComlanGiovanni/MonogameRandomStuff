@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilebasedDragAndDrop", "TilebasedDragAndDrop\TilebasedDragAndDrop\TilebasedDragAndDrop.csproj", "{326A6A25-C866-45E4-A129-6A7B27306ADE}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TilebasedDragAndDropContent", "TilebasedDragAndDrop\TilebasedDragAndDropContent\TilebasedDragAndDropContent.contentproj", "{D9DC1107-5CE9-4FD8-8D73-73F0C86391DE}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{326A6A25-C866-45E4-A129-6A7B27306ADE}.Debug|x86.ActiveCfg = Debug|x86
+		{326A6A25-C866-45E4-A129-6A7B27306ADE}.Debug|x86.Build.0 = Debug|x86
+		{326A6A25-C866-45E4-A129-6A7B27306ADE}.Release|x86.ActiveCfg = Release|x86
+		{326A6A25-C866-45E4-A129-6A7B27306ADE}.Release|x86.Build.0 = Release|x86
+		{D9DC1107-5CE9-4FD8-8D73-73F0C86391DE}.Debug|x86.ActiveCfg = Debug|x86
+		{D9DC1107-5CE9-4FD8-8D73-73F0C86391DE}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

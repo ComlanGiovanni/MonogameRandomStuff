@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragAndDrop", "DragAndDrop\DragAndDrop\DragAndDrop.csproj", "{051A73B3-9BD7-4740-8589-9E79CA5C03DE}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "DragAndDropContent", "DragAndDrop\DragAndDropContent\DragAndDropContent.contentproj", "{2FDCCDCE-30DF-4B54-90D8-FDA6C0ABC613}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{051A73B3-9BD7-4740-8589-9E79CA5C03DE}.Debug|x86.ActiveCfg = Debug|x86
+		{051A73B3-9BD7-4740-8589-9E79CA5C03DE}.Debug|x86.Build.0 = Debug|x86
+		{051A73B3-9BD7-4740-8589-9E79CA5C03DE}.Release|x86.ActiveCfg = Release|x86
+		{051A73B3-9BD7-4740-8589-9E79CA5C03DE}.Release|x86.Build.0 = Release|x86
+		{2FDCCDCE-30DF-4B54-90D8-FDA6C0ABC613}.Debug|x86.ActiveCfg = Debug|x86
+		{2FDCCDCE-30DF-4B54-90D8-FDA6C0ABC613}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
