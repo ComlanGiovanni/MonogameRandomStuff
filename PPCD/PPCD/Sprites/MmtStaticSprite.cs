@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace FF.Sprites
 {
@@ -46,14 +47,14 @@ namespace FF.Sprites
         {
             foreach (var sprite in mmtSprite)
             {
-                if (this.Velocity.X > 0 && this.IsTouchingLeft(sprite) && PerPixelCollision(sprite))
-                    this.Velocity.X = -this.Velocity.X;
-                if (this.Velocity.X < 0 && this.IsTouchingRight(sprite) && PerPixelCollision(sprite))
-                    this.Velocity.X = -this.Velocity.X;
-                if (this.Velocity.Y > 0 && this.IsTouchingTop(sprite) && PerPixelCollision(sprite))
-                    this.Velocity.Y = -this.Velocity.Y;
-                if (this.Velocity.Y < 0 && this.IsTouchingBottom(sprite) && PerPixelCollision(sprite))
-                    this.Velocity.Y = -this.Velocity.Y;
+                if ((Velocity.X > 0) && (IsTouchingLeft(sprite) && PerPixelCollision(sprite)))
+                    Velocity.X = -Velocity.X;
+                if ((Velocity.X < 0) && (IsTouchingRight(sprite) && PerPixelCollision(sprite)))
+                    Velocity.X = -Velocity.X;
+                if ((Velocity.Y > 0) && (IsTouchingTop(sprite) && PerPixelCollision(sprite)))
+                    Velocity.Y = -Velocity.Y;
+                if ((Velocity.Y < 0) && (IsTouchingBottom(sprite) && PerPixelCollision(sprite)))
+                    Velocity.Y = -Velocity.Y;
             }
 
             if (_startPosition == null)
@@ -162,7 +163,7 @@ namespace FF.Sprites
             _texture.GetData(sourceColors);
 
             var targetColors = new Color[target._texture.Width * target._texture.Height];
-            target._texture.GetData(sourceColors);
+            target._texture.GetData(targetColors);
 
             var left = Math.Max(Rectangle.Left, target.Rectangle.Left);
             var top = Math.Max(Rectangle.Top, target.Rectangle.Top);
@@ -178,11 +179,12 @@ namespace FF.Sprites
                     var sourceColor = sourceColors[(x - Rectangle.Left) + (y - Rectangle.Top) * _texture.Width];
                     var targetColor = targetColors[(x - target.Rectangle.Left) + (y - target.Rectangle.Top) * target._texture.Width];
 
-                    if (sourceColor.A > 0 && targetColor.A > 0)
+                    if (sourceColor.A != 0 && targetColor.A != 0)
+                    {
                         return true;
+                    }
                 }
             }
-
             return false;
         }
     }

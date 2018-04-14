@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/Bureau/PPCD/PPCD/Content/Sprite/aBall.png</SourceFile>
+  <SourceFile>D:/Bureau/Monogame Folder/MonogameRandomStuff/PPCD/PPCD/Content/Sprite/aBall.png</SourceFile>
   <SourceTime>2018-04-13T16:53:24.5116409+02:00</SourceTime>
-  <DestFile>D:/Bureau/PPCD/PPCD/Content/bin/Windows/Sprite/aBall.xnb</DestFile>
-  <DestTime>2018-04-13T16:53:46.7911658+02:00</DestTime>
+  <DestFile>D:/Bureau/Monogame Folder/MonogameRandomStuff/PPCD/PPCD/Content/bin/Windows/Sprite/aBall.xnb</DestFile>
+  <DestTime>2018-04-13T17:57:03.2861313+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
